@@ -1,0 +1,8 @@
+nav {
+    background-color: aqua;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+}
